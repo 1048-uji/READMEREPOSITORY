@@ -28,6 +28,7 @@ This is a university project in a functional version, although improvements and 
     Once inside the project directory, run:
     ```bash
     npm install
+
     This will install all the necessary dependencies.
 ### Usage
 1. **Register/Log In:**
@@ -40,8 +41,7 @@ This is a university project in a functional version, although improvements and 
 Currently, external contributions are not accepted. All improvements and updates are managed by the internal development team.
 
 ### Authors
-Joan Peñarrocha Centelles
-Lucas Gómez García
+Joan Peñarrocha Centelles and Lucas Gómez García.
 ### Additional Documentation
 - Application URL: You can access the application [here](https://app-movilidad-frontend.onrender.com). Note that it is hosted on Render using the free plan, so after a period of inactivity, it may take about 2 minutes to become active.
 ### Technologies and APIs Used
