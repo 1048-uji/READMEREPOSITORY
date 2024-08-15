@@ -28,7 +28,7 @@ This is a university project in a functional version, although improvements and 
     Once inside the project directory, run:
     ```bash
     npm install
-
+    ```
     This will install all the necessary dependencies.
 ### Usage
 1. **Register/Log In:**
